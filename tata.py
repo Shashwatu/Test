@@ -1,6 +1,6 @@
 print("happy")
 print("sad")
-print("squirtle")
+print("babdi")
 print("bulbasaur")
 print("muffin")
 print("dino")
