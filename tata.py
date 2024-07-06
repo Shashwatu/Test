@@ -1,4 +1,4 @@
 print("happy")
 print("sad")
-print("moody")
+print("suprise")
 print("angry")
