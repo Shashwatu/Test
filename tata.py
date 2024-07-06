@@ -1,6 +1,6 @@
 print("happy")
 print("sad")
 print("squirtle")
-print("angry")
-print("rare")
+print("bulbasaur")
+print("pikachu")
 
