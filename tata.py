@@ -1,4 +1,5 @@
 print("happy")
 print("sad")
-print("suprise")
+print("doofy")
 print("angry")
+print("rare")
