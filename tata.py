@@ -1,6 +1,6 @@
 print("happy")
 print("sad")
-print("doofy")
+print("squirtle")
 print("angry")
 print("rare")
 
