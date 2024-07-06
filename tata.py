@@ -3,4 +3,5 @@ print("sad")
 print("doofy")
 print("bulbasaur")
 print("pikachu")
+print("dino")
 
